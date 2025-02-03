@@ -84,9 +84,4 @@ local.properties
 # Typically, this file would be tracked if it contains build/dependency configurations:
 #.project
 
-# Eclipse Core 
-.project 
-
-# JDT-specific (Eclipse Java Development Tools) 
-.classpath
 
